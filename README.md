@@ -3,27 +3,6 @@
   <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" alt="Me Coding">
 </p>
 
-<h1>Hi there, I'm Son (Sean) Pham 👋</h1>
-
-<p>
-  <a href="https://www.linkedin.com/in/phamhoangson2611">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn">
-  </a>
-  <a href="mailto:phamhoangson2611@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Drop%20me%20a%20message-red" alt="Email">
-  </a>
-</p>
-
-<div>
-  <p>🔭 I'm currently on a journey to become a <b>Backend Developer</b> - Check out my repo <a href="https://github.com/yourusername/RoadToDev101">RoadToDev101</a></p>
-  <p>🌱 I'm currently learning <b>Software/Solution Architecture</b></p>
-  <p>👯 I'm eager to collaborate on exciting <b>ML/AI projects</b></p>
-  <p>🤔 I'm seeking help and guidance in the world of <b>entrepreneurship</b></p>
-  <p>💬 Ask me about <b>innovative ideas</b> or anything that's on your mind!</p>
-  <p>😄 Pronouns: <b>He/him</b></p>
-  <p>⚡ Fun fact: I hold a degree in <b>Mechanical Engineering</b> - Turning gears into code!</p>
-</div>
-
 ---
 
 <h2>:fire: My GitHub Stats</h2>
